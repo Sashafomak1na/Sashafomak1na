@@ -14,7 +14,7 @@
 
 ### 👩🏽‍💻 About me :
 
-I am 19 years old. And I'm a frontend developer
+I am 20 years old. And I'm a frontend developer
 
 - 🎓 Completed training and received a diploma at Yandex in the “Web Development” program
 - 👀 My portfolio currently includes Frontend and Backend projects
