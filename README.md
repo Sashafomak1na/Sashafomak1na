@@ -1,6 +1,6 @@
 
 <div id="header" align="center">
-  <img src="https://giphy.com/embed/3oKIPnAiaMCws8nOsE" width="250" height="250" />
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMG41eHZqaDBiMjhwMDF6Z3pwMzRwa25xODkyZWtqb3U0Zmo3OHI2dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/765ccrAiB0g9z6EApL/giphy.gif" width="250" height="250" />
   <div id="badges">
   <a href="https://vk.com/fomakina1">
     <img src="https://img.shields.io/badge/VK-steelblue?style=for-the-badge&logo=vk&logoColor=white" alt="VK Badge"/>
