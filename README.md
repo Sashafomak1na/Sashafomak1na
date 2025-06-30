@@ -14,11 +14,11 @@
 
 ### 👩🏽‍💻 About me :
 
-I am 20 years old. And I'm a frontend developer
+I am 21 years old. And I'm a frontend developer
 
 - 🎓 Completed training and received a diploma at Yandex in the “Web Development” program
 - 👀 My portfolio currently includes Frontend and Backend projects
-- 📶 I focus on learning JS, React
+- 📶 I focus on learning JS, React and Vue
 - 🔒 Getting a higher education as an information security specialist
 - 🤸‍♀️ I am for an active lifestyle
 - 🙋🏽‍♀️ I love people very much and am open to new acquaintances
