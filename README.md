@@ -23,6 +23,7 @@ I am 21 years old. And I'm a frontend developer
 - 🤸‍♀️ I am for an active lifestyle
 - 🙋🏽‍♀️ I love people very much and am open to new acquaintances
 - 📞 You can contact me using the social community links above.
+- 👩🏽‍🎓 Student of school 21.
 
 ---
 
